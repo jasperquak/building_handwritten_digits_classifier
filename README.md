@@ -6,7 +6,7 @@ This project was a 'guided project' as part of learning data science with [Dataq
 
 ## Results
 
-To display the result, simply [click the .ipynb file](https://github.com/jasperquak/predicting_bike_rentals/blob/main/PredictingBikeRentals.ipynb) in this repository. It will open in a Notebook viewer.
+To display the result, simply [click the .ipynb file](https://github.com/jasperquak/building_handwritten_digits_classifier/blob/main/BuildingHandwrittenDigitsClassifier.ipynb) in this repository. It will open in a Notebook viewer.
 
 ## Reproduction
 
