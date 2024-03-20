@@ -1,5 +1,7 @@
 # Building a handwritten digits classifier
 
+[go straightaway to the results](https://github.com/jasperquak/building_handwritten_digits_classifier/blob/main/BuildingHandwrittenDigitsClassifier.ipynb)
+
 Aim of this project is to classify handwritten digits (0-9) with a predictive model. Different models are used: KNN (k nearest neighbors) and MLP (multilayer perceptron neural network), and compared in terms of accuracy: the percentage of correct predictions on 'unseen' data.
 
 This project was a 'guided project' as part of learning data science with [Dataquest](https://www.dataquest.io).
